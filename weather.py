@@ -6,9 +6,6 @@ import pandas as pd
 from datetime import date
 import os
 
-import matplotlib
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
 import plotly.graph_objects as go
 
 
